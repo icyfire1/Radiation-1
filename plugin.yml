@@ -1,0 +1,9 @@
+name: Radiation
+version: 1.0
+description: A plugin used to add radiation to tekkit.
+author: icyfire1
+
+main: com.icy.sunrad.Radiation
+commands:
+  rad:
+    permission: rad.cmd
